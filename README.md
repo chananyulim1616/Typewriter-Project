@@ -1,4 +1,4 @@
-#TYPEWRITER-PROJECT
+# TYPEWRITER-PROJECT
 ## ABOUT THE PROJECT
 
 Aim to implement various levels in the typewriter game.
